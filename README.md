@@ -2,9 +2,8 @@
 <html>
 <body>
 
-<h1>Delving Deep into Advanced Machine Learning Challenges with Real-World Applications</h1>
-
-<h2>Project Showcase: Thorough Analysis of Cartpole and Pirate Treasure Hunt Algorithms</h2>
+<h1 align = "center"> Delving Deep into Advanced Machine Learning Challenges with Real-World Applications</h1>
+<h2 align = "center"> Adam Sissoko </h2>
 
 <h3 id="cartpole">The Cartpole Balancing Dilemma: A Deep Dive</h3>
 <p>

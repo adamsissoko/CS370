@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Comprehensive Exploration of Machine Learning Through Practical Applications</title>
-</head>
 <body>
 
 <h1>Delving Deep into Advanced Machine Learning Challenges with Real-World Applications</h1>

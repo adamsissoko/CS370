@@ -1,6 +1,6 @@
 <h1>Machine Learning Projects</h1>
 <h2>Adam Sissoko
-
+  
 <h4>Cartpole</h4>
 <p>My portfolio of projects is available for review in the <a href="https://github.com/adamsissoko/CS370" target="_blank">projects folder</a> on GitHub. Notable contributions include my work on the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Cartpole" target="_blank">Cartpole Problem</a>, which demonstrates advanced algorithmic solutions, and the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Pirate%20Treasure%20Hunt/" target="_blank">Pirate Treasure Hunt game</a>, an interactive program showcasing problem-solving and computational thinking.</p>
 
@@ -66,9 +66,3 @@ The intriguing aspect of this specific project lies in the variability of the en
 To execute the above projects, as well as any others in this repository, you'll require Python and Jupyter Notebooks on your local machine. Additional libraries like matplotlib, Keras, TensorFlow, numpy, among others, are also needed. If you've installed Jupyter Notebooks but haven't set up these libraries, running a project will generate an error message indicating the missing library. Simply install the required packages using pip, and you'll be all set to proceed.
 </p>
 
-
-
-<h3>My Learning as a Computer Scientist</h3>
-<p>In approaching problem-solving, whether in coding projects or in other aspects of life, I adopt a systematic and logical strategy. Being aware of the capabilities and limitations of the tools at my disposal allows for efficient progress. This way, it's far easier to maintain a balanced perspective; I can zoom out to appreciate the larger context and then zoom back in to address the intricate details, understanding how each contributes to the end goal.</p>
-<p>
-From an ethical standpoint, the computational power of computers surpasses any other systems available today, excelling in speed, precision, and problem-solving efficacy. Given this, it's imperative to adhere to ethical standards, particularly when working on projects that feature machine learning capabilities. Algorithms hold the potential for both beneficial and harmful impacts; thus, it's crucial for developers like myself to practice unbiased yet ethically grounded approaches during the development process.</p>

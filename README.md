@@ -87,6 +87,6 @@ To execute the above projects, as well as any others in this repository, you'll 
 
 
 <h3>My Learning as a Computer Scientist</h3>
-<p>In approaching problem-solving, whether in coding projects or in other aspects of life, I adopt a systematic and logical strategy. Being aware of the capabilities and limitations of the tools at my disposal allows for efficient progress. I excel at maintaining a balanced perspective; I can zoom out to appreciate the larger context and then zoom back in to address the intricate details, understanding how each contributes to the end goal.</p>
+<p>In approaching problem-solving, whether in coding projects or in other aspects of life, I adopt a systematic and logical strategy. Being aware of the capabilities and limitations of the tools at my disposal allows for efficient progress. This way, it's far easier to maintain a balanced perspective; I can zoom out to appreciate the larger context and then zoom back in to address the intricate details, understanding how each contributes to the end goal.</p>
 <p>
 From an ethical standpoint, the computational power of computers surpasses any other systems available today, excelling in speed, precision, and problem-solving efficacy. Given this, it's imperative to adhere to ethical standards, particularly when working on projects that feature machine learning capabilities. Algorithms hold the potential for both beneficial and harmful impacts; thus, it's crucial for developers like myself to practice unbiased yet ethically grounded approaches during the development process.</p>

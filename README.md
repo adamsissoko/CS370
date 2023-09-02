@@ -6,9 +6,7 @@
 </head>
 <body>
 
-<h1>Advanced Computer Science Projects</h1>
-<h2>By Adam Sissoko</h2>
-
+<h1>Machine Learning Projects</h1>
 <h2>Project Overview</h2>
 <p>This repository showcases my advanced projects in the field of Computer Science, with an emphasis on artificial intelligence, complex algorithms, and emerging technologies.</p>
 

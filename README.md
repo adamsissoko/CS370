@@ -19,7 +19,7 @@ This course covers the following competencies, which represent the knowledge and
 
 <h3>My Projects</h3>
 <h4>Cartpole</h4>
-<p>My portfolio of projects is available for review in the <a href="https://github.com/adamsissoko/CS370" target="_blank">projects folder</a> on GitHub. Notable contributions include my work on the <a href="https://github.com/adamsissoko/CS370/tree/main/Cartpole" target="_blank">cartpole problem</a>, which demonstrates advanced algorithmic solutions, and the <a href="https://github.com/adamsissoko/CS370/tree/main/TreasureHuntGame/TreasureHuntGame" target="_blank">pirate treasure hunt game</a>, an interactive program showcasing problem-solving and computational thinking.</p>
+<p>My portfolio of projects is available for review in the <a href="https://github.com/adamsissoko/CS370" target="_blank">projects folder</a> on GitHub. Notable contributions include my work on the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Cartpole" target="_blank">cartpole problem</a>, which demonstrates advanced algorithmic solutions, and the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Pirate%20Treasure%20Hunt/" target="_blank">pirate treasure hunt game</a>, an interactive program showcasing problem-solving and computational thinking.</p>
 
 <p>For more information about the cartpole problem check out <a href="https://towardsdatascience.com/the-cartepole-problem-competitive-performance-with-particle-swarm-optimization-672f018ede3c" target="_blank"> this article</a> about it. This project involves developing a neural network that learns to balance a "pole" on a "cart" through reinforcement learning. My solution can be found in the link above, and below you can see a screenshot of my results.</p>
 <div>

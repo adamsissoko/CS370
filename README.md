@@ -1,39 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Detailed Portfolio of Machine Learning Solutions</title>
+  <title>Comprehensive Exploration of Machine Learning Through Practical Applications</title>
 </head>
 <body>
 
-<h1>Exploring the Landscape of Advanced Machine Learning Through Real-World Applications</h1>
+<h1>Delving Deep into Advanced Machine Learning Challenges with Real-World Applications</h1>
 
-<h2>Project Spotlight: In-depth Analysis of Cartpole & Pirate Treasure Hunt</h2>
+<h2>Project Showcase: Thorough Analysis of Cartpole and Pirate Treasure Hunt Algorithms</h2>
 
-<h3 id="cartpole">Cartpole Balancing Problem</h3>
+<h3 id="cartpole">The Cartpole Balancing Dilemma: A Deep Dive</h3>
 <p>
-  One of the cornerstone projects within this repository tackles the Cartpole problem, a classic example in the field of reinforcement learning. The objective is to train a neural network model to learn the nuances of balancing a vertical pole on a moving cart. This might seem trivial at first glance but proves to be a non-trivial exercise when diving into the complexities of real-world physics and learning algorithms. Utilizing frameworks like TensorFlow and Keras, the project delivers a sophisticated model that demonstrates superior balance and control.
-  <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Cartpole" target="_blank">Learn More</a>
+  The Cartpole problem is an iconic challenge in the world of reinforcement learning and robotics. It focuses on the difficult task of keeping a pole in a vertical position while it is attached to a moving cart. This presents an intricate dynamic system where small adjustments can make a significant difference. The image below captures a frame from a successful run where the pole is held upright. Achieving this balance is no simple feat; it requires the model to train over several epochs to learn the optimal movements.
 </p>
 <p>
-  <img src="https://github.com/adamsissoko/CS370/blob/main/images/solved.png" alt="Cartpole Screenshot" style="width:200px;height:200px;">
-</p>
-
-<h3 id="pirate-treasure-hunt">Pirate Treasure Hunt Through Maze Navigation</h3>
-<p>
-  The Pirate Treasure Hunt project captures the imagination and the complexity of problem-solving algorithms. The project uses a Deep Q-Network (DQN) to help a pirate agent navigate a maze to discover a treasure. Unlike traditional Q-Learning algorithms that manually populate Q-Tables, this project employs dual neural networks to estimate Q-Values. It thereby facilitates more efficient and optimized decisions by the agent, even in unexplored environments. Furthermore, this DQN algorithm incorporates mechanisms for both exploration and exploitation, making the agent's journey through the maze remarkably dynamic.
-  <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Pirate%20Treasure%20Hunt/" target="_blank">Learn More</a>
+  <img src="https://github.com/adamsissoko/CS370/blob/main/images/solved.png" alt="A moment in the Cartpole balancing task" style="width:200px;height:200px;">
 </p>
 <p>
-  <img src="https://github.com/adamsissoko/CS370/blob/main/images/start.png" alt="Pirate Treasure Hunt Start" style="width:200px;height:200px;">
-  <img src="https://github.com/adamsissoko/CS370/blob/main/images/finish.png" alt="Pirate Treasure Hunt Finish" style="width:200px;height:200px;">
+  The Cartpole task serves as a benchmark in reinforcement learning, as it presents a highly unstable and continuously evolving environment. For more insights into this fascinating challenge, you can view the code and a deeper discussion on the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Cartpole" target="_blank">GitHub repository</a>.
 </p>
 
-<h2 id="conclusion">Final Remarks</h2>
+<h3 id="pirate-treasure-hunt">Navigating the Labyrinth: An Extensive Overview of the Pirate Treasure Hunt</h3>
 <p>
-  This portfolio encapsulates a range of intricate machine learning projects, each demonstrating advanced algorithms and computational techniques. From reinforcement learning to deep neural networks, the repository serves as a comprehensive showcase of problem-solving approaches within the machine learning domain. It offers in-depth, practical examples for those interested in taking their understanding of machine learning to a more advanced level.
+  The Pirate Treasure Hunt is another intricate reinforcement learning project where an agent, depicted as a pirate, has to navigate a maze to reach a treasure chest. This project presents a blend of decision-making and optimization as the agent must make choices at every junction. The images below show the initial state of the maze and the final state with the successfully navigated path. While the maze may look simple, solving it involves complex decision trees and can take numerous iterations.
 </p>
 <p>
-  For further inquiries or contributions, you are encouraged to <a href="https://github.com/adamsissoko/CS370/issues" target="_blank">open an issue</a> or <a href="https://github.com/adamsissoko/CS370/pulls" target="_blank">submit a pull request</a>.
+  <img src="https://github.com/adamsissoko/CS370/blob/main/images/start.png" alt="Initial state of Pirate Treasure Hunt" style="width:200px;height:200px;">
+  <img src="https://github.com/adamsissoko/CS370/blob/main/images/finish.png" alt="Successful completion of Pirate Treasure Hunt" style="width:200px;height:200px;">
+</p>
+<p>
+  For this project, the most challenging part is to implement a Deep Q-Learning Algorithm that can effectively guide the agent. Interested readers can get a more thorough understanding of the problem, the approach, and the solutions by visiting the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Pirate%20Treasure%20Hunt/" target="_blank">GitHub repository</a>.
+</p>
+
+<h2 id="conclusion">Conclusion: A Reflective Summary</h2>
+<p>
+  The projects highlighted in this portfolio are more than mere programming assignments; they represent the confluence of theoretical computer science and real-world applications. Each project addresses unique challenges in machine learning, showcasing the diversity and depth of this exciting field. Whether it's balancing a cartpole or navigating a pirate through a maze, these projects are designed to broaden your understanding of the complexities involved in machine learning algorithms.
+</p>
+<p>
+  For those looking to delve deeper or contribute to the ongoing development of these projects, please feel free to <a href="https://github.com/adamsissoko/CS370/issues" target="_blank">open an issue</a> or <a href="https://github.com/adamsissoko/CS370/pulls" target="_blank">submit a pull request</a>. Your engagement is not only welcomed but highly encouraged.
 </p>
 
 </body>

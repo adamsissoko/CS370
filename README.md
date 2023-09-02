@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Advanced Computer Science Projects by Adam Sissoko</title>
+
 </head>
 <body>
 

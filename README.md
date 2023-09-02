@@ -1,8 +1,6 @@
 <h1>Machine Learning Projects</h1>
-<h2>Adam Sissoko<br>
+<h2>Adam Sissoko
 
-
-<h3>My Projects</h3>
 <h4>Cartpole</h4>
 <p>My portfolio of projects is available for review in the <a href="https://github.com/adamsissoko/CS370" target="_blank">projects folder</a> on GitHub. Notable contributions include my work on the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Cartpole" target="_blank">Cartpole Problem</a>, which demonstrates advanced algorithmic solutions, and the <a href="https://github.com/adamsissoko/CS370/tree/main/assignments/Pirate%20Treasure%20Hunt/" target="_blank">Pirate Treasure Hunt game</a>, an interactive program showcasing problem-solving and computational thinking.</p>
 

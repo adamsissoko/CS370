@@ -1,46 +1,51 @@
-# CS370
+<h1>Adam Sissoko's Machine Learning and Reinforcement Learning Projects</h1>
+<h2>Recent Graduate, B.S. in Computer Science</h2>
 
-## Project Overview
+<h3>Introduction</h3>
+<p>As a Computer Science graduate, I have explored advanced topics in the field, with a focus on Machine Learning and Reinforcement Learning. Below are some of the projects that I have worked on to understand and apply advanced algorithms, neural networks, and Q-Learning techniques.</p>
 
-This project involved creating an intelligent agent for a non-player character (NPC) in a treasure hunt game developed by a gaming company. The task for this NPC, which is a pirate, is to find a treasure before the player does. This is essentially a pathfinding problem, and the key to its solution is to design and train the pirate agent effectively. 
+<hr>
 
-I was provided with some starter code and a sample environment where the agent is deployed. My responsibility was to build a deep Q-learning algorithm to train the pirate agent to effectively navigate the world, consisting of various pathways and obstacles, and find the treasure before the human player. 
+<h3>My Projects</h3>
 
-## Project Breakdown
+<h4>Cartpole</h4>
+<p>You can find this project in my <a href="https://github.com/adamsissoko/ML_RL_Projects" target="_blank">GitHub repository</a>. The project involves developing a neural network that learns to balance a "pole" on a "cart" through reinforcement learning.</p>
+<p>For more insights into the cartpole problem, read <a href="https://towardsdatascience.com/the-cartepole-problem-competitive-performance-with-particle-swarm-optimization-672f018ede3c" target="_blank">this article</a>.</p>
+<div>
+    <img src="path/to/cartpole_results.png" alt="[cartpole results]" style="width:200px;height:200px;">
+</div>
 
-### Given Code
+<h4>Pirate Treasure Hunt</h4>
+<p>This project was a fun exercise in developing a Deep Q-Learning algorithm. The "pirate" agent starts at the upper-left corner of the maze, and the "treasure" is located in the lower-right corner. The agent uses neural networks to make informed decisions to find the path to the treasure.</p>
 
-I was provided with a set of starter code files for creating the game environment and for initializing the pirate agent. The game environment includes the setup of the treasure hunt game, including the game board, placement of obstacles, and the location of the treasure. The agent initialization includes basic properties of the pirate agent such as its starting point, current position, and the action it is supposed to take in response to the environment.
+<div>
+    <img src="path/to/maze_matrix.png" alt="[maze matrix]" style="width:400px;">
+</div>
 
-### Developed Code
+<p>My solution for this project is based on extensive research and is crafted with Python and Keras. The agent solves the maze in about 13 minutes.</p>
 
-I created a deep Q-learning algorithm to enable the pirate agent to learn and improve its performance over time. The primary goal of this algorithm is to help the pirate make better decisions in navigating the game world to reach the treasure as quickly as possible. My algorithm includes a reward system to encourage the pirate to take certain paths and avoid others based on the perceived value of the next step. 
+<div>
+    <img src="path/to/run_time.png" alt="[run time]" style="width:400px;">
+</div>
 
-## Connection to Computer Science
+<p>What's interesting is the variance in solutions due to the exploitation/exploration ratio employed in the DQN algorithm.</p>
 
-### Role of Computer Scientists
+<div>
+    <table>
+      <tr>
+          <th>Solution 1</th>
+          <th>Solution 2</th>
+      </tr>
+      <tr>
+          <td><img src="path/to/alt_finish.png" alt="[alternative finish]" style="width:200px;height:200px;"></td>
+          <td><img src="path/to/finish.png" alt="[finish]" style="width:200px;height:200px;"></td>
+      </tr>
+    </table>
+</div>
 
-Computer scientists design and implement software to solve complex problems. They use algorithms, data structures, and principles of computer systems to build efficient and effective software. This project exemplifies this role as I applied the principles of artificial intelligence, a branch of computer science, to design an intelligent agent that can navigate a game world and make decisions based on learned experiences.
+<h3>Learning and Ethics</h3>
+<p>
+My approach to problem-solving is methodical and logical. I consider both the limitations and capabilities of the tools at my disposal. My focus remains on both the fine details and the big picture. Ethically speaking, the potential impacts of algorithms, especially those capable of "learning," should be handled with care and consideration for broader societal impacts.
+</p>
 
-### Problem-Solving Approach
-
-As a computer scientist, the approach to a problem often begins by understanding the problem thoroughly, identifying the constraints, and determining the expected output. Then, we conceptualize a solution, often represented by an algorithm. Next, we implement the solution and test it under various conditions. If it fails under any condition, we debug and optimize the solution. The process is iterative and involves constant learning and improvement.
-
-### Ethical Responsibilities
-
-Computer scientists have ethical responsibilities towards end-users and the organization. They must ensure that the software they develop is reliable, secure, and user-friendly. It should also respect users' privacy and not cause harm. Additionally, they have a responsibility towards their organization to work diligently, maintain integrity, and keep proprietary information confidential.
-
-## Project Requirements and Completion
-
-For this project, I strictly adhered to the instructions provided, which included:
-
-1. Understanding the starter code and the game environment.
-2. Completing the deep Q-learning algorithm for the intelligent agent.
-3. Ensuring the functionality of the created code without errors.
-4. Enhancing the code readability and maintainability using industry-standard best practices, such as in-line comments.
-
-After developing the intelligent agent, I evaluated its performance by running several game scenarios and fine-tuned the algorithm to improve its efficiency.
-
-## Final Thoughts
-
-The process of creating the pirate intelligent agent through deep Q-learning has helped me understand the practical applications of AI and how reinforcement learning can be used to make an agent learn through its experiences and make optimal decisions.
+<hr>
